@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-hiq7al.koi888.cfd/sitemap.xml
